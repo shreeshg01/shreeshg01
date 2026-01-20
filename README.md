@@ -7,6 +7,15 @@ I build end-to-end systems — from models and algorithms to deployable, usable 
 
 ---
 
+## 🚀 About Me
+- Master’s student passionate about applying **AI/ML to real-world problems**
+- Strong interest in **Deep Learning, NLP, and Computer Vision**
+- Hands-on experience building, training, evaluating, and deploying ML models
+- Research-oriented mindset: exploring **LLMs, sequence models (RNN/LSTM), and optimization techniques**
+- I enjoy turning experimental models into **usable, well-engineered applications**
+
+---
+
 ## 🚧 Currently Working On
 - Developing an **interactive Java Swing Sorting Algorithm Visualizer** with real-time animations, multiple algorithms (Bubble, Quick, Merge), and responsive UI-thread–safe execution.
 - Expanding **end-to-end NLP pipelines** covering classical ML, deep learning, transformers, explainability, and deployment.
@@ -30,15 +39,6 @@ Deep learning–based system for predicting yoga poses from images and videos us
 
 **Tech stack:** Python, PyTorch, OpenCV  
 🔗 Repository: https://github.com/shreeshg01/Yoga_Pose_Estimation_and_Prediction
-
----
-
-## 🚀 About Me
-- Master’s student passionate about applying **AI/ML to real-world problems**
-- Strong interest in **Deep Learning, NLP, and Computer Vision**
-- Hands-on experience building, training, evaluating, and deploying ML models
-- Research-oriented mindset: exploring **LLMs, sequence models (RNN/LSTM), and optimization techniques**
-- I enjoy turning experimental models into **usable, well-engineered applications**
 
 ---
 
