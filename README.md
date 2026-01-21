@@ -21,31 +21,46 @@ I build end-to-end systems — from models and algorithms to deployable, usable 
 
 ---
 
-## 🏆Projects
+🏆 Projects
 
-### 🧘 Yoga Pose Estimation and Prediction
-Deep learning–based system for predicting yoga poses from images and videos using pose estimation and CNNs, with a focus on real-time feedback.
-- Pose detection and classification pipeline
-- Real-time inference on images/videos
-- Practical application of computer vision concepts
-👉 [Repo link] (https://github.com/shreeshg01/Yoga_Pose_Estimation_and_Prediction).
+🧘 Yoga Pose Estimation and Prediction
 
-### 🗣️ Sentiment Classification Pipeline
-- End-to-end sentiment analysis on IMDB reviews
-- Classical ML → Deep Learning → Transformer
-- Deployment with API + UI  
-👉 [Repo link](https://github.com/shreeshg01/Yoga_Pose_Estimation_and_Prediction).
+Deep learning–based system for predicting yoga poses from images and videos using pose estimation and CNNs, with an emphasis on real-time feedback.
+
+Pose detection and classification pipeline
+
+Real-time inference on images and videos
+
+Practical application of computer vision concepts
+
+👉 Repository: https://github.com/shreeshg01/Yoga_Pose_Estimation_and_Prediction
+
+
+🗣️ Sentiment Classification Pipeline
+
+End-to-end sentiment analysis system built on IMDB reviews, progressing from classical machine learning to deep learning and transformer-based models.
+
+Classical ML → Deep Learning → Transformer-based approaches
+
+Comparative modeling and performance evaluation
+
+Deployment with API and user interface
+
+👉 Repository: https://github.com/shreeshg01/Sentiment_classficaton
+
 
 🧠 Algorithm Visualizer
-Interactive web-based tool to visualize core data structures and algorithms step-by-step, built to strengthen intuition behind algorithmic behavior rather than just outcomes.
 
-Visualizes sorting, searching, and traversal algorithms in real time
+Interactive web-based tool designed to visualize core data structures and algorithms step-by-step, focusing on understanding algorithm behavior rather than just final results.
 
-Focus on time complexity intuition and algorithm flow
+Real-time visualization of sorting, searching, and traversal algorithms
 
-Helps bridge the gap between theoretical CS concepts and actual execution
+Emphasis on time-complexity intuition and execution flow
+
+Bridges the gap between theoretical CS concepts and practical execution
 
 👉 Repository: https://github.com/shreeshg01/AlgorithmVisualizer
+
 ---
 
 ## 🛠️ Tech Stack
