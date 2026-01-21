@@ -36,9 +36,16 @@ Deep learning–based system for predicting yoga poses from images and videos us
 - Deployment with API + UI  
 👉 [Repo link](https://github.com/shreeshg01/Yoga_Pose_Estimation_and_Prediction).
 
-**Tech stack:** Python, PyTorch, OpenCV  
-🔗 Repository: https://github.com/shreeshg01/Yoga_Pose_Estimation_and_Prediction
+🧠 Algorithm Visualizer
+Interactive web-based tool to visualize core data structures and algorithms step-by-step, built to strengthen intuition behind algorithmic behavior rather than just outcomes.
 
+Visualizes sorting, searching, and traversal algorithms in real time
+
+Focus on time complexity intuition and algorithm flow
+
+Helps bridge the gap between theoretical CS concepts and actual execution
+
+👉 Repository: https://github.com/shreeshg01/AlgorithmVisualizer
 ---
 
 ## 🛠️ Tech Stack
