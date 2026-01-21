@@ -21,7 +21,7 @@ I build end-to-end systems — from models and algorithms to deployable, usable 
 
 ---
 
-🏆 Projects
+## 🏆 Projects
 
 🧘 Yoga Pose Estimation and Prediction
 
