@@ -18,7 +18,6 @@ I build end-to-end systems — from models and algorithms to deployable, usable 
 
 ## 🚧 Currently Working On
 - Developing an **interactive Java Swing Sorting Algorithm Visualizer** with real-time animations, multiple algorithms (Bubble, Quick, Merge), and responsive UI-thread–safe execution.
-- Expanding **end-to-end NLP pipelines** covering classical ML, deep learning, transformers, explainability, and deployment.
 
 ---
 
